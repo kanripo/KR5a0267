@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:00.806268
-#+TITLE: 修真十書雜著捷徑
-#+PROPERTY: DZID  DZ0263d
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—682 九卷 洞真部方法類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
